@@ -1,0 +1,30 @@
+{
+    "name": "hsriar/magento2-regenerate-url-rewrites",
+    "description": "Custom Extension develop to add into Magento 2 a CLI feature which allow to regenerate a Url rewrites of products and categories",
+    "keywords": ["hsriar", "magento", "magento2 extension", "magento 2 extension", "extension", "module", "magento2 module", "magento 2 module"],
+    "type": "magento2-module",
+    "version": "1.0.1",
+    "homepage": "",
+    "authors": [
+        {
+            "name": "Harjeetsingh Riar (Hs Riar)",
+            "email": "hsriar.work@gmail.com"
+        }
+    ],
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "HsRiar\\RegenerateUrlRewrites\\": ""
+        }
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
+}

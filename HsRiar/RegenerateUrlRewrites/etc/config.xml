@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Regenerate Url rewrites
+ *
+ * @package HsRiar_RegenerateUrlRewrites
+ * @author Hs Riar <hsriar.work@gmail.com>
+ * @copyright 2020 HsRiar
+ * @license OSL-3.0, AFL-3.0
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+</config>
